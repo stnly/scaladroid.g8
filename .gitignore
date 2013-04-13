@@ -1,0 +1,10 @@
+target/
+project/plugins/target
+boot/
+project/boot
+project/plugins/boot
+lib_managed/
+project/plugins/lib_managed
+src_managed/
+project/plugins/src_managed
+project/plugins/project/
